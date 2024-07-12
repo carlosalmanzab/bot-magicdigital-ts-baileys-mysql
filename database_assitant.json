@@ -1,0 +1,314 @@
+[
+    {
+        "membresias": [
+            {
+                "meses": "3",
+                "cantidad-usuarios": "1",
+                "costo": "USD 16.50 / MXN 297 / COP 66,000",
+                "link": "https://bot-magicdigital.com/producto/3-meses-borneo-schematic-1-pc/"
+            },
+            {
+                "meses": "3",
+                "cantidad-usuarios": "2",
+                "costo": "USD 28 / MXN 504 / COP 112,000",
+                "link": "https://bot-magicdigital.com/producto/3-meses-borneo-schematic-2-pc/"
+            },
+            {
+                "meses": "6",
+                "cantidad-usuarios": "1",
+                "costo": "USD 27 / MXN 486 / COP 108,000",
+                "link": "https://bot-magicdigital.com/producto/6-meses-borneo-schematic-1-pc/"
+            },
+            {
+                "meses": "6",
+                "cantidad-usuarios": "2",
+                "costo": "USD 45 / MXN 810 / COP 180,000",
+                "link": "https://bot-magicdigital.com/producto/6-meses-borneo-schematic-2-pc/"
+            },
+            {
+                "meses": "12",
+                "cantidad-usuarios": "1",
+                "costo": "USD 45 / MXN 810 / COP 180,000",
+                "link": "https://bot-magicdigital.com/producto/12-meses-borneo-schematic-1-pc/"
+            },
+            {
+                "meses": "12",
+                "cantidad-usuarios": "2",
+                "costo": "USD 60 / MXN 1,080 / COP 240,000.",
+                "link": "https://bot-magicdigital.com/producto/12-meses-borneo-schematic-1-pc/"
+            }
+        ],
+        "acerca": [
+            {
+                "Borneo Schematic": [
+                    {
+                        "descripcion": "la herramienta esencial para técnicos móviles. Borneo Schematic es el sistema líder mundial en consultas de mantenimiento para teléfonos móviles y computadoras. Ofrecemos esquemas, Boardview y diagramas de mantenimiento exclusivos para productos como iPhone, Huawei, Vivo, Oppo, XiaoMi y Samsung.",
+                        "caracteristicas": "la herramienta esencial para técnicos móviles. Borneo Schematic es el sistema líder mundial en consultas de mantenimiento para teléfonos móviles y computadoras. Ofrecemos esquemas, Boardview y diagramas de mantenimiento exclusivos para productos como iPhone, Huawei, Vivo, Oppo, XiaoMi y Samsung."
+                    }
+                ],
+                "Soporte Técnico": "Nuestro equipo de soporte está siempre disponible para ayudarte con cualquier consulta o problema técnico que puedas tener.",
+                "Precios competitivos": "Nuestro equipo de soporte está siempre disponible para ayudarte con cualquier consulta o problema técnico que puedas tener.",
+                "Actualizaciones Continuas": "Nuestras herramientas se actualizan regularmente para mantenerse al día con las últimas tecnologías y modelos de dispositivos móviles."
+            }
+        ],
+        "Como instalar Borneo Schematic": [
+            {
+                "paso 1": "Descargar la última versión aquí:",
+                "link": "https://www.updateborneo.com/"
+            },
+            {
+                "paso 2": "https://www.updateborneo.com/"
+            },
+            {
+                "paso 3": "Registrarse y activar aquí:",
+                "link": "https://borneoschematic.com/signin"
+            }
+        ],
+        "Acerca de la activación del producto": "La activación se realiza por medio de código instantáneamente después del pago.",
+        "Medios de Pago Disponibles:": {
+            "1": "Colombia: Nequi 🇨🇴 - 3208127538",
+            "2": "México: OXXO 🇲🇽 - 6542 5427 53214 2587",
+            "3": "Ecuador: Pichincha 🇪🇨 - 325130475355",
+            "internacionales": "México: OXXO 🇲🇽 - 6542 5427 53214 2587"
+        },
+        "Porgramas que incluye la membresia": [
+            {
+                "name": "ZXW Tool",
+                "features": [
+                    "Diagrama de placas",
+                    "Bibliotecas de componentes",
+                    "Análisis de circuitos"
+                ]
+            },
+            {
+                "name": "Wuxinji",
+                "features": [
+                    "Diagramas de bitmap",
+                    "Esquemas",
+                    "Gráficos de placas madre"
+                ]
+            },
+            {
+                "name": "Mechanic Assistant",
+                "features": [
+                    "Análisis y prueba de hardware",
+                    "Diagramas de bitmap"
+                ]
+            },
+            {
+                "name": "Pragmafix",
+                "features": [
+                    "Guías de reparación",
+                    "Esquemas",
+                    "Diagramas de layout"
+                ]
+            },
+            {
+                "name": "Xinzhizao",
+                "features": [
+                    "Diagramas de bloques",
+                    "Datos de mantenimiento profesional"
+                ]
+            },
+            {
+                "name": "Combinett Pro",
+                "features": [
+                    "Esquemas en PDF",
+                    "Vista dual de bitmap",
+                    "Soluciones de caminos"
+                ]
+            },
+            {
+                "name": "EasyJTAG Plus",
+                "features": [
+                    "Recuperación y reparación de datos",
+                    "Soluciones de JTAG e ISP"
+                ]
+            },
+            {
+                "name": "UMT Pro",
+                "features": [
+                    "Esquemas",
+                    "Soluciones de hardware para múltiples marcas"
+                ]
+            },
+            {
+                "name": "Infinity-Box",
+                "features": [
+                    "Soluciones de servicio para diversas marcas y modelos"
+                ]
+            },
+            {
+                "name": "Smart-Clip2",
+                "features": [
+                    "Reparación y desbloqueo de dispositivos Motorola y otras marcas"
+                ]
+            },
+            {
+                "name": "Hydra Dongle",
+                "features": [
+                    "Soluciones para múltiples marcas y modelos"
+                ]
+            },
+            {
+                "name": "Octoplus Box",
+                "features": [
+                    "Soporte para flasheo y reparación",
+                    "Acceso a esquemas de hardware"
+                ]
+            },
+            {
+                "name": "MRT Dongle",
+                "features": [
+                    "Enfocada en marcas chinas para desbloqueo y reparación"
+                ]
+            },
+            {
+                "name": "GPG Dragon",
+                "features": [
+                    "Esquemas de hardware",
+                    "Soluciones de reparación"
+                ]
+            },
+            {
+                "name": "NCK Pro Box",
+                "features": [
+                    "Desbloqueo",
+                    "Reparación",
+                    "Flasheo de dispositivos"
+                ]
+            },
+            {
+                "name": "Medusa Pro Box",
+                "features": [
+                    "Reparación a nivel de hardware",
+                    "Recuperación de datos"
+                ]
+            },
+            {
+                "name": "ATF Box",
+                "features": [
+                    "Soluciones avanzadas de reparación y desbloqueo"
+                ]
+            },
+            {
+                "name": "iRepair P10",
+                "features": [
+                    "Esquemas",
+                    "Soluciones de hardware para dispositivos Apple"
+                ]
+            },
+            {
+                "name": "DZKJ Schematic",
+                "features": [
+                    "Esquemas",
+                    "Diseños de PCB para Apple, Huawei, Samsung, VIVO, OPPO, Xiaomi"
+                ]
+            },
+            {
+                "name": "FlexiHub",
+                "features": [
+                    "Conexión remota",
+                    "Acceso a dispositivos USB para reparaciones"
+                ]
+            },
+            {
+                "name": "Shopify Repair",
+                "features": [
+                    "Soluciones de e-commerce",
+                    "Acceso a herramientas de reparación"
+                ]
+            },
+            {
+                "name": "GSM Fusion",
+                "features": [
+                    "Soluciones avanzadas de diagnóstico y reparación"
+                ]
+            },
+            {
+                "name": "SchematicPro",
+                "features": [
+                    "Herramienta avanzada para visualización de esquemas y diagramas"
+                ]
+            },
+            {
+                "name": "PhoneFix",
+                "features": [
+                    "Soluciones de hardware y software para reparación móvil"
+                ]
+            },
+            {
+                "name": "SigmaKey",
+                "features": [
+                    "Reparación",
+                    "Flasheo",
+                    "Desbloqueo de una amplia gama de dispositivos"
+                ]
+            },
+            {
+                "name": "EFT Dongle",
+                "features": [
+                    "Herramienta utilizada para desbloqueo",
+                    "Flasheo",
+                    "Reparación de dispositivos Android"
+                ]
+            },
+            {
+                "name": "Unlock Tools",
+                "features": [
+                    "Herramienta para desbloqueo y reparación de teléfonos móviles"
+                ]
+            },
+            {
+                "name": "Pandora Digital",
+                "features": [
+                    "Herramienta avanzada para diagnóstico y reparación de dispositivos móviles"
+                ]
+            },
+            {
+                "name": "Cheata Tool",
+                "features": [
+                    "Soluciones de hardware y software para reparación de móviles"
+                ]
+            },
+            {
+                "name": "RCT Tools",
+                "features": [
+                    "Herramienta para diagnóstico y reparación de circuitos en dispositivos móviles"
+                ]
+            },
+            {
+                "name": "FlexCable",
+                "features": [
+                    "Herramienta para diagnóstico y reparación de cables flexibles"
+                ]
+            },
+            {
+                "name": "Device Doctor",
+                "features": [
+                    "Software de diagnóstico",
+                    "Acceso a esquemas de hardware"
+                ]
+            },
+            {
+                "name": "SchematicMaster",
+                "features": [
+                    "Plataforma integral para visualización y análisis de esquemas"
+                ]
+            },
+            {
+                "name": "Borneo Schematic",
+                "features": [
+                    "Herramienta de visualización de esquemas de hardware",
+                    "Soluciones de reparación de PCB"
+                ]
+            },
+            {
+                "name": "Z3X Pro",
+                "features": [
+                    "Popular para la reparación y desbloqueo de dispositivos Samsung y LG"
+                ]
+            }
+        ]
+    }
+]
